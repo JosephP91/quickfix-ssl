@@ -1,0 +1,5 @@
+.DS_Store
+dist/
+build/
+quickfix_ssl.egg-info
+*.obj
