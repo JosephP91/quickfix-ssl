@@ -129,6 +129,7 @@
 #include "openssl/crypto.h"
 #include "openssl/err.h" // Error reporting
 #include "openssl/rand.h"
+#include "openssl/applink.c"
 #ifndef OPENSSL_NO_DH
 #include "openssl/dh.h"
 #endif
